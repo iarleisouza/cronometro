@@ -82,8 +82,8 @@ const digitZero = (digit) => {
         hours++
     }
 
-    if(hours === 60) {
-        hours++
+    if(hours === 24) {
+        hours = 0
         minutes = 0
         seconds = 0
     }
