@@ -1,4 +1,4 @@
-# cronometro
+# cronômetro
 
 Projetinho simples de uma págiana de um cronômetro em html, css e javascript
 
